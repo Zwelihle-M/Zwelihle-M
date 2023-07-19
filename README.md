@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **zwelihle408@gmail.com**
 
-- ⚡ Fun fact **I'm Tailwind CSS Ninja**
+- ⚡ Fun fact **I'm a Tailwind CSS Ninja**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

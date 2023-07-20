@@ -6,6 +6,17 @@
 Software developer specialising in web development and front-end development. With a focus on creating visually stunning and user-friendly websites, I consistently deliver work of my highest quality and my dedication to continuous learning drives me to stay up-to-date with the latest industry trends and technologies.In my spare time, I'm either drawing or making music,There's nothing like the sensation of creating something from scratch and seeing it come to life.
 
 ---
+<p align="left"> 
+  
+![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=Zwelihle-M&show_icons=true&theme=midnight-purple&hide_border=true)
+  
+</p>
+
+<p align="left"> 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zwelihle-M&hide=html&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true)
+  
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -69,20 +80,18 @@ Software developer specialising in web development and front-end development. Wi
 <img align="left" alt="HTML" width="40px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"    />
 </p>
 
-<br/>
 
 
-<p align="left"> 
-  
-![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=Zwelihle-M&show_icons=true&theme=midnight-purple&hide_border=true)
-  
-</p>
+
+
+
+
 
 <br/>
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zwelihle-M&hide=html&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true)
+
 
 
 

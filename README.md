@@ -1,7 +1,7 @@
 
 <h1> 🚀 Senzo Zwelihle Masango</h1> 
 
-**`Tailwind CSS Ninja(Software Developer/Artist/Beatmaker/Gamer)`**
+**`Tailwind CSS/Nextjs  Ninja(Software Developer/Artist/Beatmaker/Gamer)`**
 
 Software developer specialising in web development and front-end development. With a focus on creating visually stunning and user-friendly websites, I consistently deliver work of my highest quality and my dedication to continuous learning drives me to stay up-to-date with the latest industry trends and technologies.In my spare time, I'm either drawing or making music,There's nothing like the sensation of creating something from scratch and seeing it come to life.
 
